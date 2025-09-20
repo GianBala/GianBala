@@ -32,11 +32,14 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
 <img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1024px-Sqlite-square-icon.svg.png" height="40" alt="sqllite logo" />
+<img width="12" />
 <img src="https://pbs.twimg.com/profile_images/1536335358803251202/-gASF0c6_400x400.png" height="40" alt="N8N logo" />
 <img width="12" />
-<img src="https://meta-q.cdn.bubble.io/f1735656025985x589899456761148800/evolution-logo.png" height="40" alt="N8N logo" />
+<img src="https://meta-q.cdn.bubble.io/f1735656025985x589899456761148800/evolution-logo.png" height="40" alt="evolution logo" />
 <img width="12" />
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" height="40" alt="N8N logo" />
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" height="40" alt="docker logo" />
+
 </div>
 
 ---
