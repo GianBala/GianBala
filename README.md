@@ -9,14 +9,14 @@
 </p>
 
 ---
-
+<!-- 
 <h2 align="center">📊 My GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GianBala&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&locale=en&hide_border=false&cache_seconds=21600" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GianBala&locale=en&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&cache_seconds=21600" height="150" alt="languages graph" />
 </div>
-
+--->
 <h2 align="center">💻 Languages and Tools I Use</h2>
 
 <div align="center">
@@ -36,7 +36,7 @@
 <img width="12" />
 <img src="https://icon.icepanel.io/Technology/png-shadow-512/SQLite.png" height="40" alt="sqllite logo" />
 <img width="12" />
-<img src="https://pbs.twimg.com/profile_images/1536335358803251202/-gASF0c6_400x400.png" height="40" alt="N8N logo" />
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/n8n.webp" height="40" alt="N8N logo" />
 <img width="12" />
 <img src="https://meta-q.cdn.bubble.io/f1735656025985x589899456761148800/evolution-logo.png" height="40" alt="evolution logo" />
 <img width="12" />
